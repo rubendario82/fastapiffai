@@ -1,0 +1,2 @@
+# fastapiffai
+Api FastApi FFAI
